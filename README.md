@@ -1,1 +1,1 @@
-# Crop-Reccomendation-System
+Utilising the MLP ANN architecture, the crop recommendation system recommends the most suitable crop for a land on the basis of some particular factors such as N-P-K values of soil, temperature, humidity, pH value etc..
